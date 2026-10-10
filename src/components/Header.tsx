@@ -60,6 +60,9 @@ export const Header: React.FC = () => {
               <a href="#showcase" className="hover:text-emerald-700 transition-colors">
                 أعمال المعلمين
               </a>
+              <a href="#gallery" className="hover:text-emerald-700 transition-colors">
+                معرض الصور والأنشطة
+              </a>
               <a href="#vision" className="hover:text-emerald-700 transition-colors">
                 رؤية المدرسة
               </a>

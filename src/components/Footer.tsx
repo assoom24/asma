@@ -75,6 +75,11 @@ export const Footer: React.FC = () => {
                 </a>
               </li>
               <li>
+                <a href="#gallery" className="hover:text-emerald-400 transition-colors">
+                  • المعرض التفاعلي المصور للأنشطة
+                </a>
+              </li>
+              <li>
                 <a href="#messages" className="hover:text-emerald-400 transition-colors">
                   • رسائل أولياء الأمور والطلاب
                 </a>
